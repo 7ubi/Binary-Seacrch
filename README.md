@@ -1,4 +1,4 @@
-# binary_search
+# binary search
  binary search visualization
 
  #Requirements: 
